@@ -19,3 +19,21 @@
     <li>Using PIL to get the brightness values of each pixel, and numpy to handle the array manipulation. Create an ASCII string for a given image file.
   </ul>
  
+<a href = "https://github.com/UnknownStranger/GodotCrystalisTest">Crystalis Test in Godot:</a>
+  <ul>
+    <li> Testing Godot sprite animator, tilemap and top down mechanics
+  </ul>
+<a href = "https://github.com/UnknownStranger/UnityTowerDefenseTest">Unity Tower Defense Test</a>
+  <ul>
+    <li> Testing pathing idea for tower defense game as well as turret aiming, and projectile collision
+  </ul>
+  
+<a href = "https://github.com/UnknownStranger/DodgyEater">Snake-like</a>
+  <ul>
+    <li>A snake game in Java
+  </ul>
+  
+<a href = "https://github.com/UnknownStranger/SolarSystem">Solar System orbit</a>
+  <ul>
+    <li>Planets orbiting the sun based on relative size, distance and speed to earth.
+  </ul>
