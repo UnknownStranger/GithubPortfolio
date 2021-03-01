@@ -3,6 +3,11 @@
     <li>A card is a gameplay mechanic used by a healer class, and is a player action that increases damage that can be applied to players.
     <li>FFLogs is a third party API for parsing gameplay logs. This service provides both an analysis of these gameplay logs and access to their parsed output. Oauth2 is used to obtain bearer tokens, which allows access to the API. This data was then imported into MongoDB. The data was then parsed using D3JS to render a graph to show card usage per person over time.
   </ul>
+  
+<a href = "https://github.com/UnknownStranger/taskboard">Taskboard:</a>
+<ul>
+  <li> Testing out Beautiful React DND for drag and drop functionality using Material-UI for styled components.
+</ul>
 
 <a href = "https://github.com/UnknownStranger/TheNatureOfCode">The Nature of Code:</a>
   <ul>
